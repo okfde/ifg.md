@@ -6,7 +6,8 @@
     "prettier": "^2.1.1"
   },
   "scripts": {
-    "format": "prettier *.md -w"
+    "lint": "prettier **/*.md -c",
+    "format": "prettier **/*.md -w"
   },
   "prettier": {
     "proseWrap": "always"
