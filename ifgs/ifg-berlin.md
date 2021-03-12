@@ -1,3 +1,5 @@
+# Gesetz zur Förderung der Informationsfreiheit im Land Berlin (Berliner Informationsfreiheitsgesetz - IFG)
+
 ## Abschnitt 1: Informationsrecht
 
 ### § 1 Zweck des Gesetzes
