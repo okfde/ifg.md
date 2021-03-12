@@ -1,4 +1,6 @@
-# Informationszugangsgesetz für das Land Schleswig-Holstein (IZG-S H) ## 1 Zweck des Gesetzes, Anwendungsbereich
+# Informationszugangsgesetz für das Land Schleswig-Holstein (IZG-S H)
+
+## § 1 Zweck des Gesetzes, Anwendungsbereich
 
 (1) Zweck dieses Gesetzes ist es, den rechtlichen Rahmen für den freien Zugang
 zu Informationen bei informationspflichtigen Stellen sowie für die
@@ -7,7 +9,7 @@ Veröffentlichung und Verbreitung dieser Informationen zu schaffen.
 (2) Dieses Gesetz gilt für den Zugang zu Informationen, über die die in § 2 Abs.
 3 bestimmten informationspflichtigen Stellen verfügen.
 
-## 2 Begriffsbestimmungen
+## § 2 Begriffsbestimmungen
 
 (1) Im Sinne dieses Gesetzes sind
 
@@ -128,13 +130,13 @@ informationspflichtige Stelle aufbewahrt, auf die diese Stelle einen
     zumindest der hälftige Anteil an dieser Mehrheit den in Absatz 3 Nummer 3
     genannten juristischen Personen des öffentlichen Rechts zuzuordnen ist.
 
-## 3 Anspruch auf Zugang zu Informationen
+## § 3 Anspruch auf Zugang zu Informationen
 
 Jede natürliche oder juristische Person hat ein Recht auf freien Zugang zu den
 Informationen, über die eine informationspflichtige Stelle verfügt. Rechte auf
 Zugang zu Informationen, die andere Gesetze einräumen, bleiben unberührt.
 
-## 4 Antragsstellung
+## § 4 Antragsstellung
 
 (1) Informationen werden von der informationspflichtigen Stelle auf Antrag
 zugänglich gemacht.
@@ -155,7 +157,7 @@ Weiterleitung des Antrags kann sie die antragstellende Person auch auf andere
 ihr bekannte informationspflichtige Stellen hinweisen, die über die
 Informationen verfügen.
 
-## 5 Verfahren, Frist
+## § 5 Verfahren, Frist
 
 (1) Die in Anspruch genommene Stelle hat der antragstellenden Person Auskunft zu
 erteilen, Akteneinsicht zu gewähren, Kopien, auch durch Versendung, zur
@@ -180,7 +182,7 @@ Gebrauch gemacht, ist dies der antragstellenden Person so bald wie möglich,
 spätestens innerhalb eines Monats nach Antragseingang unter Angabe der Gründe
 mitzuteilen.
 
-## 6 Ablehnung des Antrags
+## § 6 Ablehnung des Antrags
 
 (1) Wird der Antrag ganz oder teilweise abgelehnt, ist dies der antragstellenden
 Person innerhalb der Fristen nach § 5 Abs. 2 mitzuteilen. Eine Ablehnung liegt
@@ -205,7 +207,7 @@ Ablehnung eines Antrags auch über die Rechtsschutzmöglichkeiten gegen die
 Entscheidung sowie darüber zu belehren, bei welcher Stelle und innerhalb welcher
 Frist um Rechtsschutz nachgesucht werden kann.
 
-## 7 Rechtsschutz
+## § 7 Rechtsschutz
 
 (1) Für Streitigkeiten nach diesem Gesetz ist der Verwaltungsrechtsweg gegeben.
 
@@ -225,7 +227,7 @@ nicht oder nicht vollständig erfüllt werden kann, schriftlich geltend zu mache
 Die informationspflichtige Stelle hat der antragstellenden Person das Ergebnis
 ihrer nochmaligen Prüfung innerhalb eines Monats zu übermitteln.
 
-## 8 Unterstützung des Zugangs zu
+## § 8 Unterstützung des Zugangs zu
 
 Umweltinformationen
 
@@ -243,7 +245,7 @@ Kommunikation abrufbar sind.
 Umweltinformationen, die von ihnen oder für sie zusammengestellt werden, auf dem
 gegenwärtigen Stand, exakt und vergleichbar sind.
 
-## 9 Schutz entgegenstehender öffentlicher Interessen
+## § 9 Schutz entgegenstehender öffentlicher Interessen
 
 (1) Soweit die Bekanntgabe der Informationen nachteilige Auswirkungen hätte auf
 
@@ -288,7 +290,7 @@ ist er abzulehnen, wenn das sich aus den Nummern 1 bis 5 jeweils ergebende
 öffentliche Interesse am Funktionieren von Verwaltungsabläufen gegenüber dem
 öffentlichen Bekanntgabeinteresse überwiegt.
 
-## 10 Schutz entgegenstehender privater Interessen
+## § 10 Schutz entgegenstehender privater Interessen
 
 Soweit durch die Bekanntgabe der Informationen
 
@@ -318,7 +320,7 @@ gekennzeichnet sind. Soweit die informationspflichtige Stelle dies verlangt,
 haben mögliche Betroffene im Einzelnen darzulegen, dass ein Betriebs- oder
 Geschäftsgeheimnis vorliegt.
 
-## 11 Veröffentlichung von Informationen
+## § 11 Veröffentlichung von Informationen
 
 (1) Landesbehörden sollen Verwaltungsvorschriften, Organisations-,
 Geschäftsverteilungs- und Aktenpläne und weitere Informationen, die ab dem 25.
@@ -390,7 +392,7 @@ besteht.
 Informationen über den Schutz kerntechnischer Anlagen gegen Störmaßnahmen oder
 sonstige Einwirkungen Dritter enthalten.
 
-## 12 Unterrichtung der Öffentlichkeit
+## § 12 Unterrichtung der Öffentlichkeit
 
 (1) Die informationspflichtigen Stellen unterrichten die Öffentlichkeit in
 angemessenem Umfang aktiv und systematisch über den Zustand der Umwelt. Zu
@@ -453,7 +455,7 @@ Landesverwaltungsgesetz entsprechend anzuwenden.
 
 (6) Die §§ 9 bis 10 sowie § 8 Abs. 2 sind entsprechend anzuwenden.
 
-## 13 Kosten
+## § 13 Kosten
 
 (1) Für die Bereitstellung von Informationen aufgrund dieses Gesetzes werden
 Kosten (Gebühren und Auslagen) erhoben. Gebühren werden nicht erhoben für
@@ -488,7 +490,7 @@ verlangen. Die Höhe der erstattungsfähigen Kosten bemisst sich nach den in der
 Rechtsverordnung nach Abs. 3 festgelegten Kostensätzen für Amtshandlungen von
 informationspflichtigen Stellen nach § 2 Absatz 3 Nr. 1 .
 
-## 14 Anrufung der oder des Landesbeauftragten für Datenschutz
+## § 14 Anrufung der oder des Landesbeauftragten für Datenschutz
 
 Eine Person, die der Ansicht ist, dass ihr Informationsersuchen zu Unrecht
 abgelehnt oder nicht beachtet worden ist oder dass sie von einer
@@ -498,13 +500,13 @@ Landesdatenschutzgesetzes über die Aufgaben und die Befugnisse der oder des
 Landesbeauftragten für Datenschutz finden entsprechend Anwendung. Die
 Vorschriften über den gerichtlichen Rechtsschutz bleiben unberührt.
 
-## 15 Übergangsvorschrift
+## § 15 Übergangsvorschrift
 
 Anträge auf Zugang zu Informationen, die vor dem Inkrafttreten dieses Gesetzes
 gestellt worden sind, sind nach den Vorschriften dieses Gesetzes zu Ende zu
 führen.
 
-## 16 Überprüfung und Bericht
+## § 16 Überprüfung und Bericht
 
 Die Landesregierung überprüft die Auswirkungen dieses Gesetzes mit
 wissenschaftlicher Unterstützung. Sie legt dem Landtag dazu in den Jahren 2020
