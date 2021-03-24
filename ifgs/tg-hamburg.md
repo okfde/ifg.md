@@ -89,42 +89,54 @@ Gegenstand haben.
 
 (1) Der Veröffentlichungspflicht unterliegen vorbehaltlich der §§ 4 bis 7 und 9
 
-    1. Vorblatt und Entscheidungssatz von beschlossenen Senatsdrucksachen,
+1.  Vorblatt und Entscheidungssatz von beschlossenen Senatsdrucksachen,
 
-    2. Mitteilungen des Senats an die Bürgerschaft,
+2.  Mitteilungen des Senats an die Bürgerschaft,
 
-    3. in öffentlicher Sitzung gefasste Beschlüsse nebst den zugehörigen Protokollen und Anlagen,
+3.  in öffentlicher Sitzung gefasste Beschlüsse nebst den zugehörigen
+    Protokollen und Anlagen,
 
-    4. Verträge der Daseinsvorsorge,
+4.  Verträge der Daseinsvorsorge,
 
-    5. Haushalts-, Stellen-, Wirtschafts-, Organisations-, Geschäftsverteilungs- und Aktenpläne,
+5.  Haushalts-, Stellen-, Wirtschafts-, Organisations-, Geschäftsverteilungs-
+    und Aktenpläne,
 
-    6. Verwaltungsvorschriften,
+6.  Verwaltungsvorschriften,
 
-    7. Ergebnisse der Landesstatistik und Tätigkeitsberichte,
+7.  Ergebnisse der Landesstatistik und Tätigkeitsberichte,
 
-    8. Gutachten und Studien, soweit sie von der Behörde in Auftrag gegeben wurden; § 6 Absatz 1 gilt entsprechend,
+8.  Gutachten und Studien, soweit sie von der Behörde in Auftrag gegeben wurden;
+    § 6 Absatz 1 gilt entsprechend,
 
-    9. Geodaten,
+9.  Geodaten,
 
-    10. Ergebnisse von Messungen, Beobachtungen und sonstigen Erhebungen über schädliche Umwelteinwirkungen, Umweltgefährdungen sowie über den Zustand der Umwelt, die von einer Behörde außerhalb einer im Einzelfall erfolgenden Überwachungstätigkeit durchgeführt werden,
+10. Ergebnisse von Messungen, Beobachtungen und sonstigen Erhebungen über
+    schädliche Umwelteinwirkungen, Umweltgefährdungen sowie über den Zustand der
+    Umwelt, die von einer Behörde außerhalb einer im Einzelfall erfolgenden
+    Überwachungstätigkeit durchgeführt werden,
 
-    11. das Baumkataster,
+11. das Baumkataster,
 
-    12. öffentliche Pläne, insbesondere Bauleitpläne und das Landschaftsprogramm,
+12. öffentliche Pläne, insbesondere Bauleitpläne und das Landschaftsprogramm,
 
-    13. die wesentlichen Regelungen erteilter Baugenehmigungen und -vorbescheide,
+13. die wesentlichen Regelungen erteilter Baugenehmigungen und -vorbescheide,
 
-    14. Subventions- und Zuwendungsvergaben,
+14. Subventions- und Zuwendungsvergaben,
 
-    15. die wesentlichen Unternehmensdaten städtischer Beteiligungen einschließlich einer Darstellung der jährlichen Vergütungen und Nebenleistungen für die Leitungsebene.
+15. die wesentlichen Unternehmensdaten städtischer Beteiligungen einschließlich
+    einer Darstellung der jährlichen Vergütungen und Nebenleistungen für die
+    Leitungsebene.
 
 (2) Die veröffentlichungspflichtigen Stellen sollen vorbehaltlich der §§ 4 bis 7
 und 9 darüber hinaus veröffentlichen
 
-    1. Verträge, an deren Veröffentlichung ein öffentliches Interesse besteht, soweit dadurch nicht wirtschaftliche Interessen der Freien und Hansestadt Hamburg oder der veröffentlichungspflichtigen Stellen selbst erheblich beeinträchtigt werden,
+1.  Verträge, an deren Veröffentlichung ein öffentliches Interesse besteht,
+    soweit dadurch nicht wirtschaftliche Interessen der Freien und Hansestadt
+    Hamburg oder der veröffentlichungspflichtigen Stellen selbst erheblich
+    beeinträchtigt werden,
 
-    2. alle weiteren, den in Nummer 1 und Absatz 1 genannten Gegenständen vergleichbaren Informationen von öffentlichem Interesse.
+2.  alle weiteren, den in Nummer 1 und Absatz 1 genannten Gegenständen
+    vergleichbaren Informationen von öffentlichem Interesse.
 
 (3) Diese und alle anderen Informationen unterliegen der Auskunftspflicht.
 
@@ -133,17 +145,30 @@ und 9 darüber hinaus veröffentlichen
 (1) Personenbezogene Daten sind bei der Veröffentlichung im Informationsregister
 unkenntlich zu machen. Dies gilt nicht für
 
-    1. Verträge nach § 3 Absatz 1 Nummer 4 sowie nach § 3 Absatz 2 Nummer 1 hinsichtlich des Namens der Vertragspartnerin oder des Vertragspartners,
+1.  Verträge nach § 3 Absatz 1 Nummer 4 sowie nach § 3 Absatz 2 Nummer 1
+    hinsichtlich des Namens der Vertragspartnerin oder des Vertragspartners,
 
-    2. Gutachten und Studien nach § 3 Absatz 1 Nummer 8 hinsichtlich der Namen der Verfasserinnen und Verfasser,
+2.  Gutachten und Studien nach § 3 Absatz 1 Nummer 8 hinsichtlich der Namen der
+    Verfasserinnen und Verfasser,
 
-    3. Geodaten nach § 3 Absatz 1 Nummer 9 , soweit sie nach Maßgabe der geltenden Datenschutzbestimmungen veröffentlicht werden dürfen,
+3.  Geodaten nach § 3 Absatz 1 Nummer 9 , soweit sie nach Maßgabe der geltenden
+    Datenschutzbestimmungen veröffentlicht werden dürfen,
 
-    4. die wesentlichen Regelungen erteilter Baugenehmigungen und -vorbescheide nach § 3 Absatz 1 Nummer 13 hinsichtlich der Bezeichnung der Flurstücknummer,
+4.  die wesentlichen Regelungen erteilter Baugenehmigungen und -vorbescheide
+    nach § 3 Absatz 1 Nummer 13 hinsichtlich der Bezeichnung der
+    Flurstücknummer,
 
-    5. personenbezogene Daten im Zusammenhang mit Subventions- und Zuwendungsvergaben nach § 3 Absatz 1 Nummer 14 , soweit es sich um die Empfänger von Einzelförderungen handelte; personenbezogene Daten in der Zweckbestimmung sind nicht zu veröffentlichen,
+5.  personenbezogene Daten im Zusammenhang mit Subventions- und
+    Zuwendungsvergaben nach § 3 Absatz 1 Nummer 14 , soweit es sich um die
+    Empfänger von Einzelförderungen handelte; personenbezogene Daten in der
+    Zweckbestimmung sind nicht zu veröffentlichen,
 
-    6. personenbezogene Daten, in deren Veröffentlichung die betroffene Person gemäß Artikel 7 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. EU 2016 Nr. L 119 S. 1, L 314 S. 72, 2018 Nr. L 127 S. 2) eingewilligt hat.
+6.  personenbezogene Daten, in deren Veröffentlichung die betroffene Person
+    gemäß Artikel 7 der Verordnung (EU) 2016/679 des Europäischen Parlaments und
+    des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der
+    Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur
+    Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. EU
+    2016 Nr. L 119 S. 1, L 314 S. 72, 2018 Nr. L 127 S. 2) eingewilligt hat.
 
 Die weiteren Einschränkungen der Informationspflicht nach § 9 sind zu
 berücksichtigen.
@@ -228,9 +253,18 @@ des Senats, Entwürfe, vorbereitende Notizen und vorbereitende Vermerke.
 
 (2) Ebenfalls von der Informationspflicht sollen ausgenommen werden
 
-    1. Entwürfe zu Entscheidungen sowie Arbeiten und Beschlüsse zu ihrer unmittelbaren Vorbereitung, soweit und solange durch die vorzeitige Bekanntgabe der Informationen der Erfolg der Entscheidungen oder bevorstehender Maßnahmen vereitelt würde. Nicht der unmittelbaren Entscheidungsfindung nach Satz 1 dienen Statistiken, Datensammlungen, Geodaten, regelmäßig Ergebnisse der Beweiserhebung, Auskünfte, Gutachten oder Stellungnahmen Dritter,
+1.  Entwürfe zu Entscheidungen sowie Arbeiten und Beschlüsse zu ihrer
+    unmittelbaren Vorbereitung, soweit und solange durch die vorzeitige
+    Bekanntgabe der Informationen der Erfolg der Entscheidungen oder
+    bevorstehender Maßnahmen vereitelt würde. Nicht der unmittelbaren
+    Entscheidungsfindung nach Satz 1 dienen Statistiken, Datensammlungen,
+    Geodaten, regelmäßig Ergebnisse der Beweiserhebung, Auskünfte, Gutachten
+    oder Stellungnahmen Dritter,
 
-    2. Protokolle und Unterlagen von Beratungen, die durch spezialgesetzliche Vertraulichkeitsvorschriften geschützt sind, sowie Unterlagen, die durch die Verschlusssachenanweisung für die Behörden der Freien und Hansestadt Hamburg geschützt sind.
+2.  Protokolle und Unterlagen von Beratungen, die durch spezialgesetzliche
+    Vertraulichkeitsvorschriften geschützt sind, sowie Unterlagen, die durch die
+    Verschlusssachenanweisung für die Behörden der Freien und Hansestadt Hamburg
+    geschützt sind.
 
 (3) Absatz 2 gilt auch für andere Informationen soweit und solange
 
@@ -304,15 +338,21 @@ zu veröffentlichen oder zugänglich zu machen.
 
 (2) Von der Veröffentlichungspflicht ausgenommen sind:
 
-    1. Verträge mit einem Gegenstandswert von weniger als 100.000 Euro, wenn zwischen den Vertragspartnern im Laufe der vergangenen zwölf Monate Verträge über weniger als insgesamt 100.000 Euro abgeschlossen worden sind,
+1. Verträge mit einem Gegenstandswert von weniger als 100.000 Euro, wenn
+   zwischen den Vertragspartnern im Laufe der vergangenen zwölf Monate Verträge
+   über weniger als insgesamt 100.000 Euro abgeschlossen worden sind,
 
-    2. Subventions- und Zuwendungsvergaben mit einem Wert unter 1.000 Euro in einem Zeitraum von zwölf Monaten an eine Empfängerin bzw. einen Empfänger,
+2. Subventions- und Zuwendungsvergaben mit einem Wert unter 1.000 Euro in einem
+   Zeitraum von zwölf Monaten an eine Empfängerin bzw. einen Empfänger,
 
-    3. Erteilung einer Baugenehmigung und eines -vorbescheides an eine Antragstellerin bzw. einen Antragsteller, sofern es sich um reine Wohnbebauung mit maximal fünf Wohneinheiten handelt,
+3. Erteilung einer Baugenehmigung und eines -vorbescheides an eine
+   Antragstellerin bzw. einen Antragsteller, sofern es sich um reine
+   Wohnbebauung mit maximal fünf Wohneinheiten handelt,
 
-    4. die Kassenärztliche Vereinigung Hamburg sowie die Kassenzahnärztliche Vereinigung Hamburg,
+4. die Kassenärztliche Vereinigung Hamburg sowie die Kassenzahnärztliche
+   Vereinigung Hamburg,
 
-    5. die Hamburgische Investitions- und Förderbank.
+5. die Hamburgische Investitions- und Förderbank.
 
 (3) Wenn Teile von Informationen aufgrund der §§ 4 bis 8 weder veröffentlicht
 noch auf Antrag zugänglich gemacht werden dürfen, sind die anderen Teile zu
@@ -495,9 +535,11 @@ Informationsfreiheit und ihre oder seine Beauftragten bei der Erfüllung ihrer
 Aufgaben zu unterstützen. Der oder dem Hamburgischen Beauftragten für
 Datenschutz und Informationsfreiheit ist dabei insbesondere
 
-    1. Auskunft zu ihren oder seinen Fragen zu erteilen sowie die Einsicht in alle Unterlagen und Akten zu gewähren, die im Zusammenhang mit dem Informationsanliegen stehen, und
+1.  Auskunft zu ihren oder seinen Fragen zu erteilen sowie die Einsicht in alle
+    Unterlagen und Akten zu gewähren, die im Zusammenhang mit dem
+    Informationsanliegen stehen, und
 
-    2. Zutritt zu Diensträumen zu gewähren.
+2.  Zutritt zu Diensträumen zu gewähren.
 
 Besondere Amts- und Berufsgeheimnisse stehen dem nicht entgegen. Stellt der
 Senat im Einzelfall fest, dass durch eine mit der Einsicht verbundene
@@ -528,13 +570,21 @@ informationspflichtigen Stellen fest, so fordert sie oder er diese zur
 Mängelbeseitigung auf. Bei erheblichen Verletzungen der Informationspflicht
 beanstandet sie oder er dies:
 
-    1. im Bereich der Verwaltung und der Gerichte der Freien und Hansestadt Hamburg gegenüber dem für die Behörde oder das Gericht verantwortlichen Senatsmitglied, im Bereich der Bezirksverwaltung gegenüber dem für die Bezirksaufsichtsbehörde verantwortlichen Senatsmitglied;
+1. im Bereich der Verwaltung und der Gerichte der Freien und Hansestadt Hamburg
+   gegenüber dem für die Behörde oder das Gericht verantwortlichen
+   Senatsmitglied, im Bereich der Bezirksverwaltung gegenüber dem für die
+   Bezirksaufsichtsbehörde verantwortlichen Senatsmitglied;
 
-    2. im Bereich der der Aufsicht der Freien und Hansestadt Hamburg unterstehenden juristischen Personen des öffentlichen Rechts und deren öffentlich-rechtlich organisierten Einrichtungen gegenüber dem Vorstand oder dem sonst vertretungsberechtigten Organ;
+2. im Bereich der der Aufsicht der Freien und Hansestadt Hamburg unterstehenden
+   juristischen Personen des öffentlichen Rechts und deren öffentlich-rechtlich
+   organisierten Einrichtungen gegenüber dem Vorstand oder dem sonst
+   vertretungsberechtigten Organ;
 
-    3. im Bereich der Bürgerschaft und des Rechnungshofes gegenüber der jeweiligen Präsidentin oder dem jeweiligen Präsidenten;
+3. im Bereich der Bürgerschaft und des Rechnungshofes gegenüber der jeweiligen
+   Präsidentin oder dem jeweiligen Präsidenten;
 
-    4. im Übrigen gegenüber der Geschäftsleitung sowie nachrichtlich gegenüber dem zuständigen Senatsmitglied.
+4. im Übrigen gegenüber der Geschäftsleitung sowie nachrichtlich gegenüber dem
+   zuständigen Senatsmitglied.
 
 Sie oder er soll zuvor die betroffene Stelle zur Stellungnahme innerhalb einer
 von ihr oder ihm zu bestimmenden Frist auffordern und die zuständige
