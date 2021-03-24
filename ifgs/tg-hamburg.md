@@ -182,13 +182,16 @@ entgegenstehen.
 
 (3) Auf Antrag ist Zugang zu personenbezogenen Daten zu gewähren, wenn
 
-    1. er durch Rechtsvorschrift erlaubt ist,
+1.  er durch Rechtsvorschrift erlaubt ist,
 
-    2. er zur Abwehr erheblicher Nachteile für das Allgemeinwohl oder von Gefahren für Leben, Gesundheit, persönliche Freiheit oder sonstiger schwerwiegender Beeinträchtigungen der Rechte Einzelner geboten ist,
+2.  er zur Abwehr erheblicher Nachteile für das Allgemeinwohl oder von Gefahren
+    für Leben, Gesundheit, persönliche Freiheit oder sonstiger schwerwiegender
+    Beeinträchtigungen der Rechte Einzelner geboten ist,
 
-    3. die oder der Betroffene in die Übermittlung eingewilligt hat oder
+3.  die oder der Betroffene in die Übermittlung eingewilligt hat oder
 
-    4. ein schutzwürdiges Interesse an der Information besteht und überwiegende schutzwürdige Belange nicht entgegenstehen.
+4.  ein schutzwürdiges Interesse an der Information besteht und überwiegende
+    schutzwürdige Belange nicht entgegenstehen.
 
 (4) Personenbezogene Daten über Bewerberinnen, Bewerber, Beschäftigte
 (Beamtinnen und Beamte, Arbeitnehmerinnen und Arbeitnehmer) und ehemalige
