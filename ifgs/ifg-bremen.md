@@ -42,90 +42,61 @@ Verwaltungsverfahrensgesetzes den Regelungen dieses Gesetzes vor.
 
 Im Sinne dieses Gesetzes ist
 
-1.
+1. amtliche Information jede amtlichen Zwecken dienende Aufzeichnung, unabhängig
+   von der Art ihrer Speicherung; Entwürfe und Notizen, die nicht Bestandteil
+   eines Vorgangs werden sollen, gehören nicht dazu;
 
-amtliche Information jede amtlichen Zwecken dienende Aufzeichnung, unabhängig
-von der Art ihrer Speicherung; Entwürfe und Notizen, die nicht Bestandteil eines
-Vorgangs werden sollen, gehören nicht dazu;
-
-2.
-
-Dritter jeder, über den personenbezogene Daten oder sonstige Informationen
-vorliegen.
+2. Dritter jeder, über den personenbezogene Daten oder sonstige Informationen
+   vorliegen.
 
 ## § 3 Schutz von besonderen öffentlichen Belangen
 
 Der Anspruch auf Informationszugang besteht nicht,
 
-1.
+1. wenn und solange das Bekanntwerden der Information nachteilige Auswirkungen
+   haben kann auf
 
-wenn und solange das Bekanntwerden der Information nachteilige Auswirkungen
-haben kann auf
+   a) internationale Beziehungen, Beziehungen zum Bund oder zu einem Land,
 
-a)
+   b) Kontroll- oder Aufsichtsaufgaben der Finanz-, Wettbewerbs- und
+   Regulierungsbehörden,
 
-internationale Beziehungen, Beziehungen zum Bund oder zu einem Land,
+   c) Angelegenheiten der externen Finanzkontrolle,
 
-b)
+   d) die Durchführung eines laufenden Gerichtsverfahrens, den Anspruch einer
+   Person auf ein faires Verfahren, die Durchführung strafrechtlicher,
+   ordnungswidrigkeitsrechtlicher oder disziplinarischer Ermittlungen oder die
+   Strafvollstreckung,
 
-Kontroll- oder Aufsichtsaufgaben der Finanz-, Wettbewerbs- und
-Regulierungsbehörden,
+2. wenn und solange das Bekanntwerden der Information die äußere oder die
+   öffentliche Sicherheit gefährden kann,
 
-c)
+3. wenn und solange die notwendige Vertraulichkeit internationaler Verhandlungen
+   beeinträchtigt wird,
 
-Angelegenheiten der externen Finanzkontrolle,
+4. wenn und solange die Information einer durch Rechtsvorschrift oder durch die
+   Verschlusssachenanweisung für das Land Bremen geregelten Geheimhaltungs- oder
+   Vertraulichkeitspflicht oder einem Berufs- oder besonderen Amtsgeheimnis
+   unterliegt,
 
-d)
+5. hinsichtlich vorübergehend beigezogener Information einer anderen
+   öffentlichen Stelle, die nicht Bestandteil der eigenen Vorgänge werden soll,
 
-die Durchführung eines laufenden Gerichtsverfahrens, den Anspruch einer Person
-auf ein faires Verfahren, die Durchführung strafrechtlicher,
-ordnungswidrigkeitsrechtlicher oder disziplinarischer Ermittlungen oder die
-Strafvollstreckung,
+6. wenn und solange das Bekanntwerden der Information geeignet wäre, fiskalische
+   Interessen des Landes, der Gemeinden oder der sonstigen der Aufsicht des
+   Landes unterstehenden juristischen Personen des öffentlichen Rechts im
+   Wirtschaftsverkehr zu beeinträchtigen,
 
-2.
+7. bei vertraulich erhobener oder übermittelter Information, soweit das
+   Interesse des Dritten an einer vertraulichen Behandlung im Zeitpunkt des
+   Antrags auf Informationszugang noch fortbesteht,
 
-wenn und solange das Bekanntwerden der Information die äußere oder die
-öffentliche Sicherheit gefährden kann,
+8. gegenüber dem Landesamt für Verfassungsschutz und den sonstigen öffentlichen
+   Stellen des Landes, die Aufgaben im Sinne des § 10 Nr. 3 des
+   Sicherheitsüberprüfungsgesetzes wahrnehmen,
 
-3.
-
-wenn und solange die notwendige Vertraulichkeit internationaler Verhandlungen
-beeinträchtigt wird,
-
-4.
-
-wenn und solange die Information einer durch Rechtsvorschrift oder durch die
-Verschlusssachenanweisung für das Land Bremen geregelten Geheimhaltungs- oder
-Vertraulichkeitspflicht oder einem Berufs- oder besonderen Amtsgeheimnis
-unterliegt,
-
-5.
-
-hinsichtlich vorübergehend beigezogener Information einer anderen öffentlichen
-Stelle, die nicht Bestandteil der eigenen Vorgänge werden soll,
-
-6.
-
-wenn und solange das Bekanntwerden der Information geeignet wäre, fiskalische
-Interessen des Landes, der Gemeinden oder der sonstigen der Aufsicht des Landes
-unterstehenden juristischen Personen des öffentlichen Rechts im
-Wirtschaftsverkehr zu beeinträchtigen,
-
-7.
-
-bei vertraulich erhobener oder übermittelter Information, soweit das Interesse
-des Dritten an einer vertraulichen Behandlung im Zeitpunkt des Antrags auf
-Informationszugang noch fortbesteht,
-
-8.
-
-gegenüber dem Landesamt für Verfassungsschutz und den sonstigen öffentlichen
-Stellen des Landes, die Aufgaben im Sinne des § 10 Nr. 3 des
-Sicherheitsüberprüfungsgesetzes wahrnehmen,
-
-9.
-
-gegenüber Radio Bremen in Bezug auf journalistisch-redaktionelle Informationen.
+9. gegenüber Radio Bremen in Bezug auf journalistisch-redaktionelle
+   Informationen.
 
 ## § 4 Schutz des behördlichen Entscheidungsprozesses
 
@@ -172,10 +143,7 @@ Büroanschrift und Telekommunikationsnummer von Bearbeitern sind vom
 Informationszugang nicht ausgeschlossen, soweit sie Ausdruck und Folge der
 amtlichen Tätigkeit sind und kein Ausnahmetatbestand erfüllt ist.
 
-### § 6
-
-Schutz des geistigen Eigentums und  
-von Betriebs- oder Geschäftsgeheimnissen
+### § 6 Schutz des geistigen Eigentums und von Betriebs- oder Geschäftsgeheimnissen
 
 (1) Der Anspruch auf Informationszugang besteht nicht, soweit der Schutz
 geistigen Eigentums entgegensteht. Zugang zu Betriebs- oder
@@ -291,14 +259,11 @@ Ablauf der Frist nach Satz 2 Nr. 1 oder Nr. 2 zugänglich zu machen. Die Frist
 beginnt mit Eingang des Antrags bei der Behörde, die über die Informationen
 verfügt und endet
 
-1.
+1. mit Ablauf eines Monats oder
 
-mit Ablauf eines Monats oder
-
-2.
-
-soweit die Informationen derart umfangreich und komplex sind, dass die in Nummer
-1 genannte Frist nicht eingehalten werden kann, mit Ablauf von zwei Monaten.
+2. soweit die Informationen derart umfangreich und komplex sind, dass die in
+   Nummer 1 genannte Frist nicht eingehalten werden kann, mit Ablauf von zwei
+   Monaten.
 
 § 8 bleibt unberührt.
 
@@ -376,62 +341,36 @@ in elektronischer Form unverzüglich allgemein zugänglich zu machen und
 unverzüglich an das elektronische Informationsregister nach Absatz 5 zu melden.
 Weitere geeignete Informationen sind insbesondere
 
-1.
+1. Handlungsempfehlungen,
 
-Handlungsempfehlungen,
+2. Statistiken, Gutachten, Berichte,
 
-2.
+3. Broschüren,
 
-Statistiken, Gutachten, Berichte,
+4. Haushaltspläne, Stellenpläne und Bewirtschaftungspläne,
 
-3.
+5. Studien, Subventions- und Zuwendungsvergaben,
 
-Broschüren,
+6. die wesentlichen Regelungen erteilter Baugenehmigungen und -vorbescheide
+   gemäß der Baugenehmigungsstatistik sowie die Flurstücknummer, mit Ausnahme
+   von reiner Wohnbebauung mit maximal fünf Wohneinheiten,
 
-4.
+7. Verbraucherinformationen nach dem Gesetz zur Verbesserung der
+   gesundheitsbezogenen Verbraucherinformation ,
 
-Haushaltspläne, Stellenpläne und Bewirtschaftungspläne,
+8. bei den Behörden vorhandene gerichtliche Entscheidungen,
 
-5.
+9. Informationen, zu denen bereits nach diesem Gesetz Zugang gewährt worden ist,
 
-Studien, Subventions- und Zuwendungsvergaben,
+10. Senatsvorlagen nach Beschlussfassung und Mitteilungen an die Bürgerschaft,
 
-6.
+11. Unterlagen, Protokolle und Beschlüsse öffentlicher Sitzungen,
 
-die wesentlichen Regelungen erteilter Baugenehmigungen und -vorbescheide gemäß
-der Baugenehmigungsstatistik sowie die Flurstücknummer, mit Ausnahme von reiner
-Wohnbebauung mit maximal fünf Wohneinheiten,
+12. Entgeltvereinbarungen sowie
 
-7.
-
-Verbraucherinformationen nach dem Gesetz zur Verbesserung der
-gesundheitsbezogenen Verbraucherinformation ,
-
-8.
-
-bei den Behörden vorhandene gerichtliche Entscheidungen,
-
-9.
-
-Informationen, zu denen bereits nach diesem Gesetz Zugang gewährt worden ist,
-
-10.
-
-Senatsvorlagen nach Beschlussfassung und Mitteilungen an die Bürgerschaft,
-
-11.
-
-Unterlagen, Protokolle und Beschlüsse öffentlicher Sitzungen,
-
-12.
-
-Entgeltvereinbarungen sowie
-
-13.
-
-wesentliche Unternehmensdaten städtischer Beteiligungen einschließlich einer
-Darstellung der jährlichen Vergütungen und Nebenleistungen für die
-Leitungsebene.
+13. wesentliche Unternehmensdaten städtischer Beteiligungen einschließlich einer
+    Darstellung der jährlichen Vergütungen und Nebenleistungen für die
+    Leitungsebene.
 
 (4a) Absatz 4 Satz 1 gilt auch für Verträge der Daseinsvorsorge, die ab dem 12.
 März 2011 geschlossen werden sowie für Vergütungsverträge für die Erstellung von
@@ -493,21 +432,15 @@ gegen die Vorschriften dieses Gesetzes oder gegen andere
 Informationsfreiheitsbestimmungen oder sonstige Mängel im Zusammenhang mit der
 Informationsfreiheit fest, so beanstandet er oder sie dies
 
-1.
+1. bei Behörden oder sonstigen Stellen des Landes und der Stadtgemeinde Bremen
+   gegenüber dem zuständigen Senatsmitglied,
 
-bei Behörden oder sonstigen Stellen des Landes und der Stadtgemeinde Bremen
-gegenüber dem zuständigen Senatsmitglied,
+2. bei Behörden oder sonstigen Stellen der Stadtgemeinde Bremerhaven gegenüber
+   dem Magistrat der Stadt Bremerhaven,
 
-2.
-
-bei Behörden oder sonstigen Stellen der Stadtgemeinde Bremerhaven gegenüber dem
-Magistrat der Stadt Bremerhaven,
-
-3.
-
-bei den juristischen Personen des öffentlichen Rechts sowie bei Vereinigungen
-solcher juristischer Personen gegenüber dem Vorstand oder dem sonst
-vertretungsberechtigten Organ
+3. bei den juristischen Personen des öffentlichen Rechts sowie bei Vereinigungen
+   solcher juristischer Personen gegenüber dem Vorstand oder dem sonst
+   vertretungsberechtigten Organ
 
 und fordert zur Stellungnahme innerhalb einer von ihm oder ihr zu bestimmenden
 Frist auf. In den Fällen der Nummern 2 und 3 unterrichtet der oder die
