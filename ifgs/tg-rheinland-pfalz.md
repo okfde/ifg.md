@@ -24,12 +24,12 @@ bereitstellt. Natürliche Personen sowie juristische Personen des Privatrechts
 und nicht rechtsfähige Vereinigungen von Bürgerinnen und Bürgern haben jederzeit
 Anspruch auf
 
-1. Bereitstellung und Veröffentlichung der Informationen, für die eine
-   Veröffentlichungspflicht gesetzlich vorgeschrieben ist, auf der
-   Transparenz-Plattform,
+1.  Bereitstellung und Veröffentlichung der Informationen, für die eine
+    Veröffentlichungspflicht gesetzlich vorgeschrieben ist, auf der
+    Transparenz-Plattform,
 
-2. Zugang zu den auf der Transparenz-Plattform gemäß den Bestimmungen des Teils
-   2 veröffentlichten Informationen.
+2.  Zugang zu den auf der Transparenz-Plattform gemäß den Bestimmungen des Teils
+    2 veröffentlichten Informationen.
 
 Satz 2 gilt auch für juristische Personen des öffentlichen Rechts, soweit sie
 Grundrechtsträger sind.
@@ -61,15 +61,16 @@ ihrer öffentlichen Aufgaben bedient oder dieser Person die Erfüllung
 ist Behörde im Sinne dieses Gesetzes auch eine natürliche oder juristische
 Person des Privatrechts,
 
-1. die aufgrund von Bundes- oder Landesrecht Aufgaben der öffentlichen
-   Verwaltung wahrnimmt oder Dienstleistungen erbringt, die im Zusammenhang mit
-   der Umwelt stehen oder
+1.  die aufgrund von Bundes- oder Landesrecht Aufgaben der öffentlichen
+    Verwaltung wahrnimmt oder Dienstleistungen erbringt, die im Zusammenhang mit
+    der Umwelt stehen oder
 
-2. die öffentliche Aufgaben wahrnimmt oder öffentliche Dienstleistungen
-   erbringt, die im Zusammenhang mit der Umwelt stehen, insbesondere solche der
-   umweltbezogenen Daseinsvorsorge, und dabei der Kontrolle des Landes, einer
-   Gemeinde oder eines Gemeindeverbandes oder einer sonstigen der Aufsicht des
-   Landes unterstehenden juristischen Person des öffentlichen Rechts unterliegt.
+2.  die öffentliche Aufgaben wahrnimmt oder öffentliche Dienstleistungen
+    erbringt, die im Zusammenhang mit der Umwelt stehen, insbesondere solche der
+    umweltbezogenen Daseinsvorsorge, und dabei der Kontrolle des Landes, einer
+    Gemeinde oder eines Gemeindeverbandes oder einer sonstigen der Aufsicht des
+    Landes unterstehenden juristischen Person des öffentlichen Rechts
+    unterliegt.
 
 Öffentliche Gremien, die diese Stellen beraten, gelten als Teil der Stelle, die
 deren Mitglieder beruft.
@@ -85,13 +86,13 @@ deren Mitglieder beruft.
 2.  ein oder mehrere Träger der öffentlichen Verwaltung alleine oder zusammen,
     unmittelbar oder mittelbar
 
-        a) die Mehrheit des gezeichneten Kapitals des Unternehmens besitzen,
+    a) die Mehrheit des gezeichneten Kapitals des Unternehmens besitzen,
 
-        b) über die Mehrheit der mit den Anteilen des Unternehmens verbundenen Stimmrechte
-        verfügen oder
+    b) über die Mehrheit der mit den Anteilen des Unternehmens verbundenen
+    Stimmrechte verfügen oder
 
-        c) mehr als die Hälfte der Mitglieder des Verwaltungs-, Leitungs- oder
-        Aufsichtsorgans des Unternehmens bestellen können oder
+    c) mehr als die Hälfte der Mitglieder des Verwaltungs-, Leitungs- oder
+    Aufsichtsorgans des Unternehmens bestellen können oder
 
 3.  mehrere juristische Personen des öffentlichen Rechts zusammen mittelbar oder
     unmittelbar über eine Mehrheit nach Nummer 2 verfügen und der überwiegende
