@@ -622,9 +622,7 @@ personenbezogener Daten rechtzeitig und umfassend zu unterrichten.
 Rechtsvorschrift gehört, soll sie oder er unverzüglich mitteilen, ob und
 innerhalb welcher Frist eine Stellungnahme abgegeben wird.
 
-#### § 17 Benachteiligungsverbot bei Anrufung
-
-der oder des Hessischen Datenschutzbeauftragten
+#### § 17 Benachteiligungsverbot bei Anrufung der oder des Hessischen Datenschutzbeauftragten
 
 Unbeschadet des Art. 77 der Verordnung (EU) Nr. 2016/679 sowie § 55 darf keiner
 Person ein Nachteil daraus erwachsen, dass sie sich aufgrund tatsächlicher
@@ -695,44 +693,42 @@ Nr. 4 hat aufschiebende Wirkung.
 
 #### Erster Titel: Verarbeitung personenbezogener Daten und Verarbeitung zu anderen Zwecken
 
-##### § 20
-
-Verarbeitung besonderer Kategorien personenbezogener Daten
+##### § 20 Verarbeitung besonderer Kategorien personenbezogener Daten
 
 (1) Abweichend von Art. 9 Abs. 1 der Verordnung (EU) Nr. 2016/679 ist die
 Verarbeitung besonderer Kategorien personenbezogener Daten im Sinne des Art. 9
 Abs. 1 der Verordnung (EU) Nr. 2016/679 durch öffentliche Stellen zulässig, wenn
 sie
 
-1. erforderlich ist, um die aus dem Recht der sozialen Sicherheit und des
-   Sozialschutzes erwachsenden Rechte auszuüben und den diesbezüglichen
-   Pflichten nachzukommen,
+1.  erforderlich ist, um die aus dem Recht der sozialen Sicherheit und des
+    Sozialschutzes erwachsenden Rechte auszuüben und den diesbezüglichen
+    Pflichten nachzukommen,
 
-2. zum Zweck der Gesundheitsvorsorge, für die Beurteilung der Arbeitsfähigkeit
-   der Beschäftigten, für die medizinische Diagnostik, die Versorgung oder
-   Behandlung im Gesundheits- oder Sozialbereich oder für die Verwaltung von
-   Systemen und Diensten im Gesundheits- und Sozialbereich oder aufgrund eines
-   Vertrags der betroffenen Person mit einem Angehörigen eines Gesundheitsberufs
-   erforderlich ist, und diese Daten von ärztlichem Personal oder durch sonstige
-   Personen, die einer entsprechenden Geheimhaltungspflicht unterliegen, oder
-   unter deren Verantwortung verarbeitet werden, oder
+2.  zum Zweck der Gesundheitsvorsorge, für die Beurteilung der Arbeitsfähigkeit
+    der Beschäftigten, für die medizinische Diagnostik, die Versorgung oder
+    Behandlung im Gesundheits- oder Sozialbereich oder für die Verwaltung von
+    Systemen und Diensten im Gesundheits- und Sozialbereich oder aufgrund eines
+    Vertrags der betroffenen Person mit einem Angehörigen eines
+    Gesundheitsberufs erforderlich ist, und diese Daten von ärztlichem Personal
+    oder durch sonstige Personen, die einer entsprechenden Geheimhaltungspflicht
+    unterliegen, oder unter deren Verantwortung verarbeitet werden, oder
 
-3. aus Gründen des öffentlichen Interesses im Bereich der öffentlichen
-   Gesundheit, wie dem Schutz vor schwerwiegenden grenzüberschreitenden
-   Gesundheitsgefahren oder zur Gewährleistung hoher Qualitäts- und
-   Sicherheitsstandards bei der Gesundheitsversorgung und bei Arzneimitteln und
-   Medizinprodukten erforderlich ist; ergänzend zu den in Abs. 2 genannten
-   Maßnahmen sind insbesondere die berufsrechtlichen und strafrechtlichen
-   Vorgaben zur Wahrung des Berufsgeheimnisses einzuhalten,
+3.  aus Gründen des öffentlichen Interesses im Bereich der öffentlichen
+    Gesundheit, wie dem Schutz vor schwerwiegenden grenzüberschreitenden
+    Gesundheitsgefahren oder zur Gewährleistung hoher Qualitäts- und
+    Sicherheitsstandards bei der Gesundheitsversorgung und bei Arzneimitteln und
+    Medizinprodukten erforderlich ist; ergänzend zu den in Abs. 2 genannten
+    Maßnahmen sind insbesondere die berufsrechtlichen und strafrechtlichen
+    Vorgaben zur Wahrung des Berufsgeheimnisses einzuhalten,
 
-4. a) aus Gründen eines erheblichen öffentlichen Interesses unbedingt
-   erforderlich ist,
+4.  a) aus Gründen eines erheblichen öffentlichen Interesses unbedingt
+    erforderlich ist,
 
-b) zur Abwehr einer erheblichen Gefahr für die öffentliche Sicherheit
-erforderlich ist oder
+    b) zur Abwehr einer erheblichen Gefahr für die öffentliche Sicherheit
+    erforderlich ist oder
 
-c) aus zwingenden Gründen der Verteidigung oder für humanitäre Maßnahmen
-erforderlich ist
+    c) aus zwingenden Gründen der Verteidigung oder für humanitäre Maßnahmen
+    erforderlich ist
 
 und soweit die Interessen des Verantwortlichen an der Datenverarbeitung die
 Interessen der betroffenen Person überwiegen.
@@ -779,9 +775,7 @@ insbesondere gehören:
 insbesondere Maßnahmen zu treffen, um den Zugriff Unbefugter bei der
 Bearbeitung, der Aufbewahrung, dem Transport und der Vernichtung zu verhindern.
 
-##### § 21
-
-Verarbeitung zu anderen Zwecken
+##### § 21 Verarbeitung zu anderen Zwecken
 
 (1) Die Verarbeitung personenbezogener Daten zu einem anderen Zweck als zu
 demjenigen, zu dem die Daten erhoben wurden, durch öffentliche Stellen im Rahmen
@@ -825,9 +819,7 @@ Datenschutzkontrolle, der Datensicherung oder zur Sicherstellung des
 ordnungsgemäßen Betriebs einer Datenverarbeitungsanlage verarbeitet werden,
 dürfen nicht für andere Zwecke verarbeitet werden.
 
-##### § 22
-
-Datenübermittlungen durch öffentliche Stellen
+##### § 22 Datenübermittlungen durch öffentliche Stellen
 
 (1) Die Übermittlung personenbezogener Daten durch öffentliche Stellen an
 öffentliche Stellen ist zulässig, wenn sie zur Erfüllung der in der
@@ -876,9 +868,7 @@ darüber hinaus die Erforderlichkeit zu überprüfen. Der Empfänger hat der
 
 ##### Zweiter Titel: Besondere Verarbeitungssituationen
 
-##### § 23
-
-Datenverarbeitung für Zwecke des Beschäftigungsverhältnisses
+##### § 23 Datenverarbeitung für Zwecke des Beschäftigungsverhältnisses
 
 (1) Personenbezogene Daten von Beschäftigten dürfen für Zwecke des
 Beschäftigungsverhältnisses verarbeitet werden, wenn dies für die Entscheidung
@@ -972,10 +962,7 @@ entsprechend anzuwenden.
 Bewerberinnen und Bewerber für ein Beschäftigungsverhältnis sowie Personen,
 deren Beschäftigungsverhältnis beendet ist, gelten als Beschäftigte.
 
-##### § 24
-
-Datenverarbeitung zu wissenschaftlichen oder historischen Forschungszwecken  
-und zu statistischen Zwecken
+##### § 24 Datenverarbeitung zu wissenschaftlichen oder historischen Forschungszwecken und zu statistischen Zwecken
 
 (1) Abweichend von Art. 9 Abs. 1 der Verordnung (EU) Nr. 2016/679 ist die
 Verarbeitung besonderer Kategorien personenbezogener Daten im Sinne des Art. 9
@@ -1014,10 +1001,7 @@ historischen Forschungszwecken nur veröffentlichen, wenn die betroffene Person
 eingewilligt hat oder dies für die Darstellung von Forschungsergebnissen über
 Ereignisse der Zeitgeschichte unerlässlich ist.
 
-##### § 25
-
-Datenverarbeitung zu im öffentlichen  
-Interesse liegenden Archivzwecken
+##### § 25 Datenverarbeitung zu im öffentlichen Interesse liegenden Archivzwecken
 
 (1) Abweichend von Art. 9 Abs. 1 der Verordnung (EU) Nr. 2016/679 ist die
 Verarbeitung besonderer Kategorien personenbezogener Daten im Sinne des Art. 9
@@ -1044,10 +1028,7 @@ voraussichtlich die Verwirklichung der im öffentlichen Interesse liegenden
 Archivzwecke unmöglich machen oder ernsthaft beeinträchtigen und die Ausnahmen
 für die Erfüllung dieser Zwecke erforderlich sind.
 
-##### § 26
-
-Rechte der betroffenen Person und auf sichtsbehördliche Untersuchungen  
-im Fall von Geheimhaltungspflichten
+##### § 26 Rechte der betroffenen Person und auf sichtsbehördliche Untersuchungen im Fall von Geheimhaltungspflichten
 
 (1) Die Pflicht zur Information der betroffenen Person nach Art. 14 Abs. 1 bis 4
 der Verordnung (EU) Nr. 2016/679 besteht ergänzend zu den in Art. 14 Abs. 5 der
@@ -1084,9 +1065,7 @@ Beschäftigten im Rahmen einer Untersuchung Kenntnis von Daten, die nach einer
 Rechtsvorschrift oder ihrem Wesen nach einer Geheimhaltungspflicht unterliegen,
 gilt diese auch für sie.
 
-##### § 27
-
-Datenübermittlung an öffentlich-rechtliche Religionsgemeinschaften
+##### § 27 Datenübermittlung an öffentlich-rechtliche Religionsgemeinschaften
 
 Die Übermittlung personenbezogener Daten an Stellen der öffentlich-rechtlichen
 Religionsgemeinschaften ist in entsprechender Anwendung der Vorschriften über
@@ -1094,10 +1073,7 @@ die Übermittlung an öffentliche Stellen nur zulässig, sofern auf Grundlage
 geeigneter Garantien sichergestellt ist, dass bei der empfangenden Stelle eine
 Datenverarbeitung im Einklang mit der Verordnung (EU) Nr. 2016/679 erfolgt.
 
-##### § 28
-
-Datenverarbeitung des Hessischen Rundfunks  
-zu journalistischen Zwecken
+##### § 28 Datenverarbeitung des Hessischen Rundfunks zu journalistischen Zwecken
 
 (1) Führt die journalistische Verarbeitung personenbezogener Daten zur
 Veröffentlichung von Gegendarstellungen der betroffenen Personen, so sind diese
@@ -1116,10 +1092,7 @@ gleichzeitig den Rundfunkrat. Die Dienstaufsicht obliegt dem Verwaltungsrat.
 (3) Der oder dem nach Abs. 2 zu bestellenden Beauftragten für den Datenschutz
 können auch die Aufgaben nach § 7 zugewiesen werden.
 
-##### § 28a
-
-Datenverarbeitung bei öffentlichen  
-Auszeichnungen und Ehrungen
+##### § 28a Datenverarbeitung bei öffentlichen Auszeichnungen und Ehrungen
 
 (1) Die für die Vorbereitung und Durchführung öffentlicher Auszeichnungen und
 Ehrungen erforderlichen personenbezogenen Daten einschließlich der Daten nach
@@ -1138,10 +1111,7 @@ erfolgt, sind die Art. 13, 14, 16 und 19 bis 21 Abs. 4 der Verordnung (EU) Nr.
 (2) Eine Verarbeitung der in Abs. 1 Satz 1 genannten Daten für andere als die
 dort genannten Zwecke ist nur mit Einwilligung der betroffenen Person zulässig.
 
-##### § 28b
-
-Datenverarbeitung in  
-Gnadenverfahren
+##### § 28b Datenverarbeitung in Gnadenverfahren
 
 (1) In Gnadenverfahren ist die Verarbeitung personenbezogener Daten
 einschließlich der Daten nach Art. 9 Abs. 1 und Art. 10 der Verordnung (EU) Nr.
@@ -1153,10 +1123,7 @@ von Art. 33 und 34 der Verordnung (EU) Nr. 2016/679 entsprechende Anwendung.
 
 ##### Dritter Titel: Rechte des Landtags und der kommunalen Vertretungsorgane
 
-##### § 29
-
-Auskunftsrecht des Landtags und der  
-kommunalen Vertretungsorgane
+##### § 29 Auskunftsrecht des Landtags und der kommunalen Vertretungsorgane
 
 (1) Die Hessische Zentrale für Datenverarbeitung, die Kommunalen
 Gebietsrechenzentren und die öffentlichen Stellen des Landes, die
@@ -1195,10 +1162,7 @@ zu, die Datenverarbeitungsanlagen und -geräte betreiben. Anträge der Fraktione
 sind in den Gemeinden über den Gemeindevorstand, in den Kreisen über den
 Kreisausschuss zu leiten.
 
-##### § 30
-
-Verarbeitung personenbezogener Daten durch den Landtag  
-und die kommunalen Vertretungsorgane
+##### § 30 Verarbeitung personenbezogener Daten durch den Landtag und die kommunalen Vertretungsorgane
 
 (1) Mit Ausnahme der §§ 15 und 29 gelten die Vorschriften dieses Gesetzes für
 den Landtag nur, soweit er in Verwaltungsangelegenheiten tätig wird,
@@ -1228,9 +1192,7 @@ Gemeindeordnung und der Hessischen Landkreisordnung .
 
 ### Zweiter Abschnitt: Rechte der betroffenen Person
 
-#### § 31 Informationspflicht bei Erhebung von personenbezogenen Daten
-
-bei der betroffenen Person
+#### § 31 Informationspflicht bei Erhebung von personenbezogenen Daten bei der betroffenen Person
 
 (1) Die Pflicht zur Information der betroffenen Person nach Art. 13 Abs. 3 der
 Verordnung (EU) Nr. 2016/679 besteht ergänzend zu der in Art. 13 Abs. 4 der
@@ -1246,20 +1208,18 @@ der Information über die beabsichtigte Weiterverarbeitung
    Blick auf den Zusammenhang, in dem die Daten erhoben wurden, als gering
    anzusehen ist,
 
-2. a)
+2. a) die ordnungsgemäße Erfüllung der in der Zuständigkeit des Verantwortlichen
+   liegenden Aufgaben im Sinne des Art. 23 Abs. 1 Buchst. a bis e der Verordnung
+   (EU) Nr. 2016/679 gefährden,
 
-die ordnungsgemäße Erfüllung der in der Zuständigkeit des Verantwortlichen
-liegenden Aufgaben im Sinne des Art. 23 Abs. 1 Buchst. a bis e der Verordnung
-(EU) Nr. 2016/679 gefährden,
+   b) die öffentliche Sicherheit oder Ordnung gefährden,
 
-b) die öffentliche Sicherheit oder Ordnung gefährden,
+   c) die Rechte oder Freiheiten Dritter gefährden,
 
-c) die Rechte oder Freiheiten Dritter gefährden,
+   d) die Geltendmachung, Ausübung oder Verteidigung rechtlicher Ansprüche
+   beeinträchtigen oder
 
-d) die Geltendmachung, Ausübung oder Verteidigung rechtlicher Ansprüche
-beeinträchtigen oder
-
-e) sonst dem Wohle des Bundes oder eines Landes Nachteile bereiten
+   e) sonst dem Wohle des Bundes oder eines Landes Nachteile bereiten
 
 würde und das Interesse des Verantwortlichen an der Nichterteilung der
 Information das Informationsinteresse der betroffenen Person überwiegt.
@@ -1283,9 +1243,7 @@ Informationspflicht unter Berücksichtigung der spezifischen Umstände der
 Verarbeitung innerhalb einer angemessenen Frist nach Fortfall des
 Hinderungsgrundes, spätestens jedoch innerhalb von zwei Wochen, nach.
 
-#### § 32 Informationspflicht, wenn die personenbezogenen Daten
-
-nicht bei der betroffenen Person erhoben wurden
+#### § 32 Informationspflicht, wenn die personenbezogenen Daten nicht bei der betroffenen Person erhoben wurden
 
 (1) Die Pflicht zur Information der betroffenen Person nach Art. 14 Abs. 1, 2
 und 4 der Verordnung (EU) Nr. 2016/679 besteht ergänzend zu den in Art. 14 Abs.
@@ -1374,9 +1332,7 @@ der betroffenen Person geltend gemachten Informationsinteresse steht. Statt
 einer Auskunft über personenbezogene Daten kann der betroffenen Person
 Akteneinsicht gewährt werden.
 
-#### § 34 Recht auf Löschung
-
-(„Recht auf Vergessenwerden“)
+#### § 34 Recht auf Löschung („Recht auf Vergessenwerden“)
 
 (1) Ist eine Löschung im Fall nicht automatisierter Datenverarbeitung wegen der
 besonderen Art der Speicherung nicht oder nur mit unverhältnismäßig hohem
@@ -1484,10 +1440,7 @@ Einrichtung und Durchführung des gemeinsamen Verfahrens obliegt.
 ein gemeinsames Verfahren zur Verarbeitung personenbezogener Daten für
 verschiedene Zwecke eingerichtet wird.
 
-## DRITTER TEIL
-
-Bestimmungen für Verarbeitungen zu Zwecken  
-nach Artikel 1 Absatz 1 der Richtlinie (EU) Nr. 2016/680
+## DRITTER TEIL: Bestimmungen für Verarbeitungen zu Zwecken nach Artikel 1 Absatz 1 der Richtlinie (EU) Nr. 2016/680
 
 ### Erster Abschnitt: Anwendungsbereich, Begriffsbestimmungen und allgemeine Grundsätze für die Verarbeitung personenbezogener Daten
 
@@ -1558,11 +1511,11 @@ Im Sinne des Dritten Teils
 
 7. ist zuständige Behörde
 
-a) eine staatliche Stelle, die für die Aufgaben nach § 40 zuständig ist, oder
+   a) eine staatliche Stelle, die für die Aufgaben nach § 40 zuständig ist, oder
 
-b) eine andere staatliche Stelle oder Einrichtung, der durch Rechtsvorschrift
-die Ausübung öffentlicher Gewalt und hoheitlicher Befugnisse zur Erfüllung der
-Aufgaben nach § 40 übertragen wurde;
+   b) eine andere staatliche Stelle oder Einrichtung, der durch Rechtsvorschrift
+   die Ausübung öffentlicher Gewalt und hoheitlicher Befugnisse zur Erfüllung
+   der Aufgaben nach § 40 übertragen wurde;
 
 8. ist Verantwortlicher die zuständige Behörde, die allein oder gemeinsam mit
    anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen
@@ -1576,86 +1529,68 @@ Aufgaben nach § 40 übertragen wurde;
    Einrichtung oder andere Stelle, die personenbezogene Daten im Auftrag des
    Verantwortlichen verarbeitet;
 
-10.
+10. ist Empfänger eine natürliche oder juristische Person, Behörde, Einrichtung
+    oder andere Stelle, der personenbezogene Daten offengelegt werden,
+    unabhängig davon, ob es sich bei ihr um einen Dritten handelt oder nicht;
+    Behörden, die im Rahmen eines bestimmten Untersuchungsauftrags nach dem
+    Recht der Mitgliedstaaten möglicherweise personenbezogene Daten erhalten,
+    gelten jedoch nicht als Empfänger; die Verarbeitung dieser Daten durch die
+    genannten Behörden erfolgt im Einklang mit den geltenden
+    Datenschutzvorschriften nach den Zwecken der Verarbeitung;
 
-ist Empfänger eine natürliche oder juristische Person, Behörde, Einrichtung oder
-andere Stelle, der personenbezogene Daten offengelegt werden, unabhängig davon,
-ob es sich bei ihr um einen Dritten handelt oder nicht; Behörden, die im Rahmen
-eines bestimmten Untersuchungsauftrags nach dem Recht der Mitgliedstaaten
-möglicherweise personenbezogene Daten erhalten, gelten jedoch nicht als
-Empfänger; die Verarbeitung dieser Daten durch die genannten Behörden erfolgt im
-Einklang mit den geltenden Datenschutzvorschriften nach den Zwecken der
-Verarbeitung;
+11. ist Verletzung des Schutzes personenbezogener Daten eine Verletzung der
+    Sicherheit, die zur Vernichtung, zum Verlust oder zur Veränderung, ob
+    unbeabsichtigt oder unrechtmäßig, oder zur unbefugten Offenlegung von
+    beziehungsweise zum unbefugten Zugang zu personenbezogenen Daten führt, die
+    übermittelt, gespeichert oder auf sonstige Weise verarbeitet wurden;
 
-11.
+12. sind genetische Daten personenbezogene Daten zu den ererbten oder erworbenen
+    genetischen Eigenschaften einer natürlichen Person, die eindeutige
+    Informationen über die Physiologie oder die Gesundheit dieser Person liefern
+    und insbesondere aus der Analyse einer biologischen Probe der Person
+    gewonnen wurden;
 
-ist Verletzung des Schutzes personenbezogener Daten eine Verletzung der
-Sicherheit, die zur Vernichtung, zum Verlust oder zur Veränderung, ob
-unbeabsichtigt oder unrechtmäßig, oder zur unbefugten Offenlegung von
-beziehungsweise zum unbefugten Zugang zu personenbezogenen Daten führt, die
-übermittelt, gespeichert oder auf sonstige Weise verarbeitet wurden;
+13. sind biometrische Daten mit speziellen technischen Verfahren gewonnene
+    personenbezogene Daten zu den physischen, physiologischen oder
+    verhaltenstypischen Merkmalen einer natürlichen Person, die die eindeutige
+    Identifizierung dieser natürlichen Person ermöglichen oder bestätigen, wie
+    Gesichtsbilder oder daktyloskopische Daten;
 
-12.
+14. sind Gesundheitsdaten personenbezogene Daten, die sich auf die körperliche
+    oder geistige Gesundheit einer natürlichen Person, einschließlich der
+    Erbringung von Gesundheitsdienstleistungen, beziehen und aus denen
+    Informationen über deren Gesundheitszustand hervorgehen;
 
-sind genetische Daten personenbezogene Daten zu den ererbten oder erworbenen
-genetischen Eigenschaften einer natürlichen Person, die eindeutige Informationen
-über die Physiologie oder die Gesundheit dieser Person liefern und insbesondere
-aus der Analyse einer biologischen Probe der Person gewonnen wurden;
+15. sind besondere Kategorien personenbezogener Daten
 
-13.
+    a) Daten, aus denen die rassische oder ethnische Herkunft, politische
+    Meinungen, religiöse oder weltanschauliche Überzeugungen oder die
+    Gewerkschaftszugehörigkeit hervorgehen,
 
-sind biometrische Daten mit speziellen technischen Verfahren gewonnene
-personenbezogene Daten zu den physischen, physiologischen oder
-verhaltenstypischen Merkmalen einer natürlichen Person, die die eindeutige
-Identifizierung dieser natürlichen Person ermöglichen oder bestätigen, wie
-Gesichtsbilder oder daktyloskopische Daten;
+    b) genetische Daten,
 
-14.
+    c) biometrische Daten zur eindeutigen Identifizierung einer natürlichen
+    Person,
 
-sind Gesundheitsdaten personenbezogene Daten, die sich auf die körperliche oder
-geistige Gesundheit einer natürlichen Person, einschließlich der Erbringung von
-Gesundheitsdienstleistungen, beziehen und aus denen Informationen über deren
-Gesundheitszustand hervorgehen;
+    d) Gesundheitsdaten und
 
-15.
+    e) Daten zum Sexualleben oder zur sexuellen Orientierung;
 
-sind besondere Kategorien personenbezogener Daten
+16. ist Aufsichtsbehörde eine von einem Mitgliedstaat nach Art. 41 der
+    Richtlinie (EU) Nr. 2016/680 eingerichtete unabhängige staatliche Stelle;
 
-a) Daten, aus denen die rassische oder ethnische Herkunft, politische Meinungen,
-religiöse oder weltanschauliche Überzeugungen oder die
-Gewerkschaftszugehörigkeit hervorgehen,
+17. ist internationale Organisation eine völkerrechtliche Organisation und ihre
+    nachgeordneten Stellen oder jede sonstige Einrichtung, die durch eine von
+    zwei oder mehr Ländern geschlossene Übereinkunft oder auf der Grundlage
+    einer solchen Übereinkunft geschaffen wurde;
 
-b) genetische Daten,
+18. ist Einwilligung jede freiwillig für den bestimmten Fall, in informierter
+    Weise und unmissverständlich abgegebene Willensbekundung in Form einer
+    Erklärung oder einer sonstigen eindeutigen bestätigenden Handlung, mit der
+    die betroffene Person zu verstehen gibt, dass sie mit der Verarbeitung der
+    sie betreffenden personenbezogenen Daten einverstanden ist.
 
-c) biometrische Daten zur eindeutigen Identifizierung einer natürlichen Person,
-
-d) Gesundheitsdaten und
-
-e) Daten zum Sexualleben oder zur sexuellen Orientierung;
-
-16.
-
-ist Aufsichtsbehörde eine von einem Mitgliedstaat nach Art. 41 der Richtlinie
-(EU) Nr. 2016/680 eingerichtete unabhängige staatliche Stelle;
-
-17.
-
-ist internationale Organisation eine völkerrechtliche Organisation und ihre
-nachgeordneten Stellen oder jede sonstige Einrichtung, die durch eine von zwei
-oder mehr Ländern geschlossene Übereinkunft oder auf der Grundlage einer solchen
-Übereinkunft geschaffen wurde;
-
-18.
-
-ist Einwilligung jede freiwillig für den bestimmten Fall, in informierter Weise
-und unmissverständlich abgegebene Willensbekundung in Form einer Erklärung oder
-einer sonstigen eindeutigen bestätigenden Handlung, mit der die betroffene
-Person zu verstehen gibt, dass sie mit der Verarbeitung der sie betreffenden
-personenbezogenen Daten einverstanden ist.
-
-#### § 42 Allgemeine Grundsätze für die Verarbeitung
-
-personenbezogener Daten
+#### § 42 Allgemeine Grundsätze für die Verarbeitung personenbezogener Daten
 
 Personenbezogene Daten müssen
 
@@ -1685,9 +1620,7 @@ Personenbezogene Daten müssen
 
 ### Zweiter Abschnitt: Rechtsgrundlagen für die Verarbeitung personenbezogener Daten
 
-#### § 43 Verarbeitung besonderer Kategorien
-
-personenbezogener Daten
+#### § 43 Verarbeitung besonderer Kategorien personenbezogener Daten
 
 (1) Die Verarbeitung besonderer Kategorien personenbezogener Daten ist nur
 zulässig, wenn sie zur Aufgabenerfüllung unbedingt erforderlich ist.
@@ -1726,9 +1659,7 @@ Zweck erforderlich und verhältnismäßig ist. Die Verarbeitung personenbezogene
 Daten zu einem anderen, in § 40 nicht genannten Zweck ist zulässig, wenn sie in
 einer Rechtsvorschrift vorgesehen ist.
 
-#### § 45 Verarbeitung zu wissenschaftlichen oder historischen Forschungszwecken,
-
-archivarischen oder statistischen Zwecken
+#### § 45 Verarbeitung zu wissenschaftlichen oder historischen Forschungszwecken, archivarischen oder statistischen Zwecken
 
 (1) Personenbezogene Daten dürfen im Rahmen der in § 40 genannten Zwecke zu
 wissenschaftlichen oder historischen Forschungszwecken, archivarischen oder
@@ -2002,9 +1933,7 @@ unterrichten.
 (8) Der Verantwortliche hat die sachlichen oder rechtlichen Gründe für die
 Entscheidung zu dokumentieren.
 
-#### § 53 Rechte auf Berichtigung und Löschung
-
-sowie Einschränkung der Verarbeitung
+#### § 53 Rechte auf Berichtigung und Löschung sowie Einschränkung der Verarbeitung
 
 (1) Die betroffene Person hat das Recht, von dem Verantwortlichen unverzüglich
 die Berichtigung sie betreffender unrichtiger Daten zu verlangen. Insbesondere
@@ -2084,9 +2013,7 @@ betroffenen Person, die einen Antrag nach den §§ 52 und 53 gestellt hat, kann 
 von ihr zusätzliche Informationen anfordern, die zur Bestätigung ihrer Identität
 erforderlich sind.
 
-#### § 55 Anrufung der oder des Hessischen
-
-Datenschutzbeauftragten
+#### § 55 Anrufung der oder des Hessischen Datenschutzbeauftragten
 
 (1) Jede betroffene Person kann sich unbeschadet anderweitiger Rechtsbehelfe mit
 einer Beschwerde an die Hessische Datenschutzbeauftragte oder den Hessischen
@@ -2292,31 +2219,21 @@ Folgendes bezwecken:
 9. Gewährleistung, dass eingesetzte Systeme im Störungsfall wiederhergestellt
    werden können (Wiederherstellbarkeit),
 
-10.
+10. Gewährleistung, dass alle Funktionen des Systems zur Verfügung stehen und
+    auftretende Fehlfunktionen gemeldet werden (Zuverlässigkeit),
 
-Gewährleistung, dass alle Funktionen des Systems zur Verfügung stehen und
-auftretende Fehlfunktionen gemeldet werden (Zuverlässigkeit),
+11. Gewährleistung, dass gespeicherte personenbezogene Daten nicht durch
+    Fehlfunktionen des Systems beschädigt werden können (Datenintegrität),
 
-11.
+12. Gewährleistung, dass personenbezogene Daten, die im Auftrag verarbeitet
+    werden, nur entsprechend den Weisungen des Auftraggebers verarbeitet werden
+    können (Auftragskontrolle),
 
-Gewährleistung, dass gespeicherte personenbezogene Daten nicht durch
-Fehlfunktionen des Systems beschädigt werden können (Datenintegrität),
+13. Gewährleistung, dass personenbezogene Daten gegen Zerstörung oder Verlust
+    geschützt sind (Verfügbarkeitskontrolle),
 
-12.
-
-Gewährleistung, dass personenbezogene Daten, die im Auftrag verarbeitet werden,
-nur entsprechend den Weisungen des Auftraggebers verarbeitet werden können
-(Auftragskontrolle),
-
-13.
-
-Gewährleistung, dass personenbezogene Daten gegen Zerstörung oder Verlust
-geschützt sind (Verfügbarkeitskontrolle),
-
-14.
-
-Gewährleistung, dass zu unterschiedlichen Zwecken erhobene personenbezogene
-Daten getrennt verarbeitet werden können (Trennbarkeit).
+14. Gewährleistung, dass zu unterschiedlichen Zwecken erhobene personenbezogene
+    Daten getrennt verarbeitet werden können (Trennbarkeit).
 
 Ein Zweck nach Satz 1 Nr. 2 bis 5 kann insbesondere durch die Verwendung von dem
 Stand der Technik entsprechenden Verschlüsselungsverfahren erreicht werden.
@@ -2325,9 +2242,7 @@ Stand der Technik entsprechenden Verschlüsselungsverfahren erreicht werden.
 insbesondere Maßnahmen zu treffen, um den Zugriff Unbefugter bei der
 Bearbeitung, der Aufbewahrung, dem Transport und der Vernichtung zu verhindern.
 
-#### § 60 Meldung von Verletzungen des Schutzes personenbezogener Daten an
-
-die Hessische Datenschutzbeauftragte oder den Hessischen Datenschutzbeauftragten
+#### § 60 Meldung von Verletzungen des Schutzes personenbezogener Daten an die Hessische Datenschutzbeauftragte oder den Hessischen Datenschutzbeauftragten
 
 (1) Der Verantwortliche hat eine Verletzung des Schutzes personenbezogener Daten
 unverzüglich und möglichst binnen 72 Stunden, nachdem sie ihm bekannt geworden
@@ -2379,9 +2294,7 @@ Verantwortlichen unverzüglich zu übermitteln.
 (8) Weitere Pflichten des Verantwortlichen zu Benachrichtigungen über
 Verletzungen des Schutzes personenbezogener Daten bleiben unberührt.
 
-#### § 61 Benachrichtigung betroffener Personen
-
-bei Verletzungen des Schutzes personenbezogener Daten
+#### § 61 Benachrichtigung betroffener Personen bei Verletzungen des Schutzes personenbezogener Daten
 
 (1) Hat eine Verletzung des Schutzes personenbezogener Daten voraussichtlich ein
 hohes Risiko für die Rechte und Freiheiten natürlicher Personen zur Folge, so
@@ -2597,9 +2510,7 @@ elektronisch zu führen.
 (4) Verantwortliche und Auftragsverarbeiter haben auf Anfrage ihre Verzeichnisse
 der oder dem Hessischen Datenschutzbeauftragten zur Verfügung zu stellen.
 
-#### § 66 Datenschutz durch Technikgestaltung und
-
-datenschutzfreundliche Voreinstellungen
+#### § 66 Datenschutz durch Technikgestaltung und datenschutzfreundliche Voreinstellungen
 
 (1) Der Verantwortliche hat sowohl zum Zeitpunkt der Festlegung der Mittel für
 die Verarbeitung als auch zum Zeitpunkt der Verarbeitung selbst angemessene
@@ -2684,9 +2595,7 @@ Arbeitsweise der Europäischen Union errichtet wurden, keine Bedingungen
 anwenden, die nicht auch für entsprechende innerstaatliche Datenübermittlungen
 gelten.
 
-#### § 70 Berichtigung und Löschung personenbezogener Daten
-
-sowie Einschränkung der Verarbeitung
+#### § 70 Berichtigung und Löschung personenbezogener Daten sowie Einschränkung der Verarbeitung
 
 (1) Der Verantwortliche hat personenbezogene Daten zu berichtigen, wenn sie
 unrichtig sind. § 53 Abs. 1 Satz 2 und 3 ist entsprechend anzuwenden.
@@ -2821,9 +2730,7 @@ unterrichten, die aufgrund einer Beurteilung nach Abs. 1 Nr. 2 erfolgt sind. In
 der Unterrichtung kann er die Empfänger und die Übermittlungszwecke angemessen
 kategorisieren.
 
-#### § 75 Ausnahmen für eine Datenübermittlung
-
-ohne geeignete Garantien
+#### § 75 Ausnahmen für eine Datenübermittlung ohne geeignete Garantien
 
 (1) Liegt entgegen § 73 Abs. 1 Nr. 2 kein Beschluss nach Art. 36 Abs. 3 der
 Richtlinie (EU) Nr. 2016/680 vor und liegen auch keine geeigneten Garantien im
@@ -3196,9 +3103,7 @@ Informationsfreiheitsbeauftragte dem Landtag und der Landesregierung einen
 Bericht über ihre oder seine Tätigkeit vorzulegen. Die Landesregierung legt ihre
 Stellungnahme zu dem Bericht dem Landtag vor.
 
-### FÜNFTER TEIL
-
-Übergangs- und Schlussvorschriften
+### FÜNFTER TEIL: Übergangs- und Schlussvorschriften
 
 #### § 90 Übergangsvorschriften
 
@@ -3222,7 +3127,6 @@ Verwaltungskostenverzeichnis
 
 | Nr.  | Gegenstand                                                                                                                                                                                                                         | Bemessungs- grundlage | Gebühr EUR       |
 | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | ---------------- |
-| 1    | 2                                                                                                                                                                                                                                  | 3                     | 4                |
 | 1    | Gebühren                                                                                                                                                                                                                           |                       |                  |
 | 11   | Auskünfte, Akteneinsicht                                                                                                                                                                                                           |                       |                  |
 | 111  | schriftliche Auskünfte Einfache schriftliche Auskünfte sind kostenfrei, soweit sie nicht aus Registern oder Dateien erteilt werden.                                                                                                |                       | 30 bis 600       |
