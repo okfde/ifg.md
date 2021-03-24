@@ -89,20 +89,20 @@ Stelle die Aufforderung ortsüblich bekanntmachen.
 
 Der Antrag auf Informationszugang ist abzulehnen, soweit und solange
 
-    a) das Bekanntwerden der Information die Landesverteidigung, die internationalen
-    Beziehungen, die Beziehungen zum Bund oder zu einem Land oder die öffentliche
-    Sicherheit oder Ordnung, insbesondere die Tätigkeit der Polizei, des
-    Verfassungsschutzes, der Staatsanwaltschaften oder der Behörden des Straf- und
-    Maßregelvollzugs einschließlich ihrer Aufsichtsbehörden beeinträchtigen würde
-    oder
+a) das Bekanntwerden der Information die Landesverteidigung, die internationalen
+Beziehungen, die Beziehungen zum Bund oder zu einem Land oder die öffentliche
+Sicherheit oder Ordnung, insbesondere die Tätigkeit der Polizei, des
+Verfassungsschutzes, der Staatsanwaltschaften oder der Behörden des Straf- und
+Maßregelvollzugs einschließlich ihrer Aufsichtsbehörden beeinträchtigen würde
+oder
 
-    b) durch die Bekanntgabe der Information der Verfahrensablauf eines anhängigen
-    Verwaltungsverfahrens, eines Ordnungswidrigkeitenverfahrens, eines
-    Disziplinarverfahrens oder der Erfolg einer bevorstehenden behördlichen Maßnahme
-    erheblich beeinträchtigt würde oder
+b) durch die Bekanntgabe der Information der Verfahrensablauf eines anhängigen
+Verwaltungsverfahrens, eines Ordnungswidrigkeitenverfahrens, eines
+Disziplinarverfahrens oder der Erfolg einer bevorstehenden behördlichen Maßnahme
+erheblich beeinträchtigt würde oder
 
-    c) durch das Bekanntwerden der Information Angaben und Mitteilungen öffentlicher
-    Stellen des Bundes oder anderer Länder ohne deren Zustimmung offenbart würden.
+c) durch das Bekanntwerden der Information Angaben und Mitteilungen öffentlicher
+Stellen des Bundes oder anderer Länder ohne deren Zustimmung offenbart würden.
 
 Entsprechendes gilt, wenn konkrete Anhaltspunkte dafür bestehen, dass die
 Information zu einer Gefährdung der öffentlichen Sicherheit oder Ordnung
@@ -116,11 +116,11 @@ sowie für Protokolle vertraulicher Beratungen.
 
 (2) Der Antrag soll abgelehnt werden, wenn
 
-    a) sich der Inhalt der Information auf den Prozess der Willensbildung innerhalb
-    von und zwischen öffentlichen Stellen bezieht oder
+a) sich der Inhalt der Information auf den Prozess der Willensbildung innerhalb
+von und zwischen öffentlichen Stellen bezieht oder
 
-    b) das Bekanntwerden des Inhalts der Information die Funktionsfähigkeit und die
-    Eigenverantwortung der Landesregierung beeinträchtigt oder
+b) das Bekanntwerden des Inhalts der Information die Funktionsfähigkeit und die
+Eigenverantwortung der Landesregierung beeinträchtigt oder
 
 c) es sich um Informationen handelt, die ausschließlich Bestandteil von
 Vorentwürfen und Notizen sind, die nicht Bestandteil eines Vorgangs werden
@@ -148,22 +148,22 @@ zu geben. Betroffen sein kann auch eine öffentliche Stelle.
 Bekanntwerden der Information personenbezogene Daten offenbart werden, es sei
 denn,
 
-    a) die betroffene Person hat eingewilligt oder
+a) die betroffene Person hat eingewilligt oder
 
-    b) die Offenbarung ist durch ein Gesetz oder aufgrund eines Gesetzes erlaubt
-    oder
+b) die Offenbarung ist durch ein Gesetz oder aufgrund eines Gesetzes erlaubt
+oder
 
-    c) die Offenbarung ist zur Abwehr erheblicher Nachteile für das Allgemeinwohl
-    oder von Gefahren für Leben, Gesundheit, persönliche Freiheit oder sonstiger
-    schwerwiegender Beeinträchtigungen der Rechte Einzelner geboten oder
+c) die Offenbarung ist zur Abwehr erheblicher Nachteile für das Allgemeinwohl
+oder von Gefahren für Leben, Gesundheit, persönliche Freiheit oder sonstiger
+schwerwiegender Beeinträchtigungen der Rechte Einzelner geboten oder
 
-    d) die Einholung der Einwilligung der betroffenen Person ist nicht oder nur mit
-    unverhältnismäßigem Aufwand möglich und es offensichtlich ist, dass die
-    Offenbarung im Interesse der betroffenen Person liegt oder
+d) die Einholung der Einwilligung der betroffenen Person ist nicht oder nur mit
+unverhältnismäßigem Aufwand möglich und es offensichtlich ist, dass die
+Offenbarung im Interesse der betroffenen Person liegt oder
 
-    e) die Antragstellerin oder der Antragsteller macht ein rechtliches Interesse an
-    der Kenntnis der begehrten Information geltend und überwiegende schutzwürdige
-    Belange der betroffenen Person stehen der Offenbarung nicht entgegen.
+e) die Antragstellerin oder der Antragsteller macht ein rechtliches Interesse an
+der Kenntnis der begehrten Information geltend und überwiegende schutzwürdige
+Belange der betroffenen Person stehen der Offenbarung nicht entgegen.
 
 (2) Soll Zugang zu personenbezogenen Informationen nach Absatz 1 Buchstabe b bis
 e gewährt werden, ist die betroffene Person von der Freigabe der Information zu
@@ -176,11 +176,11 @@ vorher Gelegenheit zur Stellungnahme zu geben.
 soweit sich die Angaben auf Namen, Titel, akademischen Grad, Berufs- und
 Funktionsbezeichnung, Büroanschrift und Rufnummer beschränken und
 
-    a) die betroffene Person als Amtsträger an dem jeweiligen Vorgang mitgewirkt hat
-    oder
+a) die betroffene Person als Amtsträger an dem jeweiligen Vorgang mitgewirkt hat
+oder
 
-    b) die betroffene Person als Gutachter, Sachverständiger oder in vergleichbarer
-    Weise eine Stellungnahme in einem Verfahren abgegeben hat,
+b) die betroffene Person als Gutachter, Sachverständiger oder in vergleichbarer
+Weise eine Stellungnahme in einem Verfahren abgegeben hat,
 
 es sei denn, der Offenbarung stehen schutzwürdige Belange der betroffenen Person
 entgegen.
@@ -201,9 +201,6 @@ geeignete Maßnahmen, damit Informationen, die dem Anwendungsbereich der §§ 6 
 können.
 
 ## § 11 Kosten
-
-§ 11  
-Kosten
 
 (1) Für Amtshandlungen, die aufgrund dieses Gesetzes vorgenommen werden, werden
 Gebühren erhoben. Die Ablehnung eines Antrages auf Informationszugang ist
