@@ -1,3 +1,5 @@
+# Thüringer Transparenzgesetz (ThürTG)
+
 ## Erster Abschnitt: Allgemeine Bestimmungen
 
 ### § 1 Gesetzeszweck
