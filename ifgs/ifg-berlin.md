@@ -72,46 +72,45 @@ der Betroffenen an der Geheimhaltung nicht überwiegt.
 Betroffenen in der Regel nicht entgegen, wenn die Betroffenen zustimmen oder
 soweit sich aus einer Akte
 
-1. ergibt, dass
+1.  ergibt, dass
 
-a) die Betroffenen an einem Verwaltungsverfahren oder einem sonstigen Verfahren
-beteiligt sind,
+    a) die Betroffenen an einem Verwaltungsverfahren oder einem sonstigen
+    Verfahren beteiligt sind,
 
-b) eine gesetzlich oder behördlich vorgeschriebene Erklärung abgegeben oder eine
-Anzeige, Anmeldung, Auskunft oder vergleichbare Mitteilung durch die Betroffenen
-gegenüber einer Behörde erfolgt ist,
+    b) eine gesetzlich oder behördlich vorgeschriebene Erklärung abgegeben oder
+    eine Anzeige, Anmeldung, Auskunft oder vergleichbare Mitteilung durch die
+    Betroffenen gegenüber einer Behörde erfolgt ist,
 
-c) gegenüber den Betroffenen überwachende oder vergleichbare
-Verwaltungstätigkeiten erfolgt sind,
+    c) gegenüber den Betroffenen überwachende oder vergleichbare
+    Verwaltungstätigkeiten erfolgt sind,
 
-d) die Betroffenen Eigentümer, Pächter, Mieter oder Inhaber eines vergleichbaren
-Rechts sind,
+    d) die Betroffenen Eigentümer, Pächter, Mieter oder Inhaber eines
+    vergleichbaren Rechts sind,
 
-e) die Betroffenen als Gutachter, sachverständige Personen oder in
-vergleichbarer Weise eine Stellungnahme abgegeben haben,
+    e) die Betroffenen als Gutachter, sachverständige Personen oder in
+    vergleichbarer Weise eine Stellungnahme abgegeben haben, und durch diese
+    Angaben mit Ausnahme von
 
-und durch diese Angaben mit Ausnahme von
+    - Namen,
 
-- Namen,
+    - Titel, akademischem Grad,
 
-- Titel, akademischem Grad,
+    - Geburtsdatum,
 
-- Geburtsdatum,
+    - Beruf, Branchen- oder Geschäftsbezeichnung,
 
-- Beruf, Branchen- oder Geschäftsbezeichnung,
+    - innerbetrieblicher Funktionsbezeichnung,
 
-- innerbetrieblicher Funktionsbezeichnung,
+    - Anschrift,
 
-- Anschrift,
+    - Rufnummer
 
-- Rufnummer
+    nicht zugleich weitere personenbezogene Daten offenbart werden;
 
-nicht zugleich weitere personenbezogene Daten offenbart werden;
-
-2. die Mitwirkung eines bestimmten Amtsträgers oder einer bestimmten
-   Amtsträgerin an Verwaltungsvorgängen, dessen oder deren Name, Titel,
-   akademischer Grad, Beruf, innerdienstliche Funktionsbezeichnung, dienstliche
-   Anschrift und Rufnummer ergeben.
+2.  die Mitwirkung eines bestimmten Amtsträgers oder einer bestimmten
+    Amtsträgerin an Verwaltungsvorgängen, dessen oder deren Name, Titel,
+    akademischer Grad, Beruf, innerdienstliche Funktionsbezeichnung, dienstliche
+    Anschrift und Rufnummer ergeben.
 
 Satz 1 gilt auch, wenn die Betroffenen im Rahmen eines Arbeits- oder
 Anstellungsverhältnisses oder als Vertreter oder Vertreterin oder Organ einer
@@ -193,9 +192,7 @@ entgegen, soweit diese Angaben im Zusammenhang mit Angaben über
 Gesundheitsgefährdungen sowie im Zusammenhang mit den von den Betroffenen
 dagegen eingesetzten Schutzvorkehrungen stehen.
 
-### § 9 Schutz besonderer öffentlicher Belange, der Rechtsdurchsetzung und der
-
-Strafverfolgung
+### § 9 Schutz besonderer öffentlicher Belange, der Rechtsdurchsetzung und der Strafverfolgung
 
 (1) Das Recht auf Akteneinsicht oder Aktenauskunft besteht nicht, soweit und
 solange durch das vorzeitige Bekanntwerden des Akteninhalts der Erfolg
