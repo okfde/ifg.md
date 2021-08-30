@@ -411,9 +411,7 @@ Befugnisse des § 24 des Berliner Datenschutzgesetzes .
 (3) Der Beauftragte für Datenschutz und Informationsfreiheit berichtet dem
 Abgeordnetenhaus entsprechend § 29 des Berliner Datenschutzgesetzes .
 
-### § 18 a
-
-Umweltinformationen
+### § 18 a Umweltinformationen
 
 (1) Für den Zugang zu Umweltinformationen im Land Berlin sowie für die
 Verbreitung dieser Umweltinformationen gilt mit Ausnahme der §§ 11 bis 14 das
